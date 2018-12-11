@@ -1,0 +1,11 @@
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\bin\Debug\Currency Converter Application.exe
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\bin\Debug\Currency Converter Application.pdb
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\bin\Debug\Currency Converter Application.xml
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\WindowsApplication1.frmApp.resources
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\WindowsApplication1.frmWelcome.resources
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\Currency Converter Application.vbproj.GenerateResource.Cache
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\Currency Converter Application.exe
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\Currency Converter Application.xml
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\Currency Converter Application.pdb
+C:\Users\Bryan Aim\Documents\Visual Studio 2010\Projects\Currency Converter Application\Currency Converter Application\obj\x86\Debug\WindowsApplication1.frmDetails.resources
